@@ -14,4 +14,4 @@ Add your Name to contrib.md and open a PR.
 example: Name: TheCrazyCoder, Location: India.
 
 ---
-## Happy Coding❤❤
+## Happy Coding ❤❤
