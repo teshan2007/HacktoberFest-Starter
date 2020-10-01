@@ -1,5 +1,5 @@
 
-a="Hello World"
+a=" Hello World "
 print(a)
 print(type(a))
 
