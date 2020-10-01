@@ -5,8 +5,8 @@ def BubbleSort(array):
 				array[j], array[j+1] = array[j+1], array[j]
 #Testing
 array = [5,2,-1,23,-51,27,76,-33]
-print("Before sort: ")
+print(" Q. ")
 print(*array,sep=", ")
 BubbleSort(array)
-print("After sort: ")
+print("ascending order")
 print(*array,sep=", ")
